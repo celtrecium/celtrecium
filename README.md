@@ -24,5 +24,5 @@ Nice to meet you!
   languages.
 
 ## About other projects
-  More of my other projects is a simple games that use 
+  The rest of my projects are simple games that use 
   [codl](https://github.com/celtrecium/codl) library for graphics
