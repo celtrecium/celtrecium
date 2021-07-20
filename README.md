@@ -7,4 +7,4 @@ Nice to meet you!
 ---
 
 ## About my main projects
-*** # cring
+* ### cring
