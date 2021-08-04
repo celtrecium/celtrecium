@@ -5,11 +5,5 @@ Nice to meet you!🐧
 
 ---
 
-## Account statistics
-
-![](https://github-readme-stats.vercel.app/api?username=celtrecium&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=celtrecium&layout=compact&count_private=true)
-
 ## About my main projects
 * ### cring
