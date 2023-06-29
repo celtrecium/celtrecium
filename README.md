@@ -4,7 +4,7 @@
 
 ## Немного о проектах
 В основном пишу библиотеки и время от времени иные проекты с их использованием.\
-Также несколько раз писал интерпретаторы и компиляторы. Ныне репозитории с ними скрыты
+Также несколько раз писал интерпретаторы и компиляторы. Ныне репозитории с ними скрыты.
 
 - **[tdl](https://github.com/celtrecium/tdl)**\
 Один из главных проектов, к которому прилагаются самописные библиотеки-зависимости([libu8string](https://github.com/celtrecium/libu8string), **[libsbvector](https://github.com/celtrecium/libsbvector)**(имеет интресный туториал)) и просто сопутствующие библиотеки([libqwerty](https://github.com/celtrecium/libqwerty), **[tdlcpp](https://github.com/celtrecium/tdlcpp)**). \
