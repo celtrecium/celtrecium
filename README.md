@@ -8,7 +8,7 @@
 
 - **tdl**\
 Один из главных проектов - библиотека [tdl](https://github.com/celtrecium/tdl), 
-к которой прилагаются самописные библиотеки-зависимости([libu8string](https://github.com/celtrecium/libu8string), [libsbvector](https://github.com/celtrecium/libsbvector)) и просто сопутствующие библиотеки([libqwerty](https://github.com/celtrecium/libqwerty), [tdlcpp](https://github.com/celtrecium/tdlcpp)). \
+к которой прилагаются самописные библиотеки-зависимости([libu8string](https://github.com/celtrecium/libu8string), [libsbvector](https://github.com/celtrecium/libsbvector)(имеет интресный туториал)) и просто сопутствующие библиотеки([libqwerty](https://github.com/celtrecium/libqwerty), [tdlcpp](https://github.com/celtrecium/tdlcpp)). \
 В качестве демонстрации работы данных библиотек есть небольшая игрушка [fletters](https://github.com/celtrecium/fletters).\
 Пока что это не окончательный набор сопутствующих библиотек, поэтому проектов с использованием данной библиотеки практически нет.
 
